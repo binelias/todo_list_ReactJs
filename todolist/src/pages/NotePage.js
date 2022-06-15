@@ -1,4 +1,3 @@
-import { getNodeText } from '@testing-library/react'
 import React, {useState, useEffect} from 'react'
 // import notes from '../assets/data'
 import { useParams, useNavigate } from 'react-router-dom'
