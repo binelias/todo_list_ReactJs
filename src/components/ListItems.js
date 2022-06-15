@@ -1,8 +1,13 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+let getDay = (note) => {
+    const options = { weekday: 'long'};
+    return new Date(note.updated).toLocaleDateString('en-us',options);
+}
+
 let getDate = (note) => {
-    return new Date(note.updated).toLocaleDateString()
+    return new Date(note.updated).toLocaleDateString();
 }
 
 let getContent = (note) => {
@@ -30,7 +35,7 @@ const ListItems = ({ note }) => {
     return (
         <Link to ={`/note/${note.id}`}>
             <div className='notes-list-item'>
-                <p><span>{ getDate(note) }</span></p>
+                <p><span>{ getDay(note) }</span><span>{ getDate(note) }</span></p>
                 <h3>{ getTitle(note) }</h3>
                 <p>{getContent(note)}</p>
             </div>
