@@ -6,4 +6,6 @@ Cloning and starting application
         npm run server 
         npm start //open it in a new terminal
 
-Check out this by clicking the link located in the About section on the left side
+Check out this frontend web app by clicking the link located in the About section on the left side
+
+To fully check the complete web app with its functionality go to my repository called "todolist_DjangoRest"
