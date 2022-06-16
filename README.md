@@ -8,4 +8,4 @@ Cloning and starting application
 
 Check out this frontend web app by clicking the link located in the About section on the left side
 
-To fully check the complete web app with its functionality go to my repository called "todolist_DjangoRest"
+To fully check the complete web app with its CRUD functionality go to my repository called "todolist_DjangoRest"
