@@ -1,6 +1,6 @@
 Cloning and starting application
 
-        https://github.com/binelias/todo_list_ReactJs.git
+        git clone https://github.com/binelias/todo_list_ReactJs.git
         open folder todo_list_ReactJs in vs code
         npm install
         npm run server 
