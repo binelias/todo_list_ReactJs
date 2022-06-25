@@ -8,10 +8,11 @@
 Cloning and starting application
 
         git clone https://github.com/binelias/todo_list_ReactJs.git
-        open folder todo_list_ReactJs in vs code
+        cd todo_list_ReactJs
         npm install
-        npm run server 
-        npm start //open it in a new terminal
+        npm run server
+        //Open a new terminal for frontend 
+        npm start
 
 
 To fully check the complete web app with its CRUD functionality go to my repository called "todolist_DjangoRest"

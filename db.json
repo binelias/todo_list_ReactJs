@@ -1,19 +1,9 @@
 {
   "notes": [
     {
-      "id": 1,
-      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-      "updated": "2022-06-15T06:06:55.101Z"
-    },
-    {
-      "id": 2,
-      "body": "Bob from bar down under\n\n- Take out trash\n\n",
-      "updated": "2022-06-15T03:52:55.455Z"
-    },
-    {
-      "id": 3,
-      "body": "To Do List  using React JSON\n\nTo Do List React JSON\n\n-Deploy to netlify",
-      "updated": "2022-06-15T03:53:03.067Z"
+      "body": "How to use",
+      "updated": "2022-06-25T10:44:01.257Z",
+      "id": 4
     }
   ]
 }
