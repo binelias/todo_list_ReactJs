@@ -1,7 +1,7 @@
 <div align="center">
 <img width="50%" src="https://raw.githubusercontent.com/binelias/todolist_DjangoRest/main/Pictures/Home.PNG"/>
 
-# Notes App using React
+# Notes App using React with dummy JSON API server
 
 </div>
 
