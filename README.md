@@ -1,3 +1,10 @@
+<div align="center">
+<img width="50%" src="https://raw.githubusercontent.com/binelias/todolist_DjangoRest/main/Pictures/Home.PNG"/>
+
+# Notes App using React
+
+</div>
+
 Cloning and starting application
 
         git clone https://github.com/binelias/todo_list_ReactJs.git
@@ -6,6 +13,5 @@ Cloning and starting application
         npm run server 
         npm start //open it in a new terminal
 
-Check out this frontend web app by clicking the link located in the About section on the left side
 
 To fully check the complete web app with its CRUD functionality go to my repository called "todolist_DjangoRest"
